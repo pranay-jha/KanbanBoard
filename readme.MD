@@ -2,7 +2,7 @@
 
 The hardest part about this project was learning how to use Swing to create the GUI and making it easy to use and somewhat presentable. I had some experience using it before in high school to create simple country flags, but there was a bit of a learning curve to add user input and to make a proper layout. I learned to use the various classes of Swing, such as JFrame, JPanel, JButton, JTextField, GridBagLayout and GridBagConstraints among others in order to accomplish this.
 
-Another difficult part was learning how to edit and delete elements in the SQLite database that I used to save the sticky notes and their positions after the GUI window was closed, which involved becoming more familiar with SQLite and JDBC. My solutions in the end were somewhat hacky, but seem to serve their purpose at the moment, but I could foresee some issues if one were to scale up this project.
+Another difficult part was learning how to edit and delete elements in the SQLite database that I used to save the sticky notes and their positions after the GUI window was closed, which involved becoming more familiar with SQLite and JDBC. My solutions in the end were somewhat hacky, but seem to serve their purpose at the moment, although I could foresee some issues if one were to scale up this project.
 
 2. Where did you get your inspiration for the app?
 
