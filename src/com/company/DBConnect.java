@@ -82,7 +82,7 @@ public class DBConnect {
         return stickyNotes;
     }
 
-    public int getLastId() {
+    /*public int getLastId() {
         String sql = "SELECT MAX(ID) AS LAST FROM sticky";
         int lastId = 0;
         try (Connection conn = DriverManager.getConnection(url)) {
@@ -95,7 +95,7 @@ public class DBConnect {
             throwables.printStackTrace();
         }
         return lastId;
-    }
+    }*/
 
     public void update() {
         try(Connection conn = DriverManager.getConnection(url)) {

@@ -36,7 +36,5 @@ public class Main {
         window = new Window();
         window.display();
 
-        System.out.println(db.getLastId());
-
     }
 }
