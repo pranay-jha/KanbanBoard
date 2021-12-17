@@ -1,4 +1,7 @@
-package com.company;
+package com.company.views;
+
+import com.company.controllers.Main;
+import com.company.models.StickyNote;
 
 import javax.swing.*;
 import javax.swing.event.*;

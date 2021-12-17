@@ -1,4 +1,6 @@
-package com.company;
+package com.company.controllers;
+
+import com.company.models.StickyNote;
 
 import java.sql.*;
 import java.util.*;

@@ -1,4 +1,6 @@
-package com.company;
+package com.company.models;
+
+import com.company.controllers.Main;
 
 import javax.swing.*;
 import javax.swing.JPanel;
